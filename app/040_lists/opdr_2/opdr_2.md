@@ -13,7 +13,7 @@ Bij deze opdracht heb je ook een lijst nodig met de landen waar de rivieren door
 Die lijst kun je zo maken:
 ```python
 rivier_info = { 
-    "rijn": ["nederland", "duitsland", "Frankrijk"], 
+    "rijn": ["nederland", "duitsland", "Frankrijk"],
     "maas": ["nederland", "belgië", "duitsland"], 
     "nijl": ["egypte", "soedan", "oeganda"] 
 }
